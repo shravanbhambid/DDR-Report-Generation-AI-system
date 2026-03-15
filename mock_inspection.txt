@@ -1,0 +1,18 @@
+=== SITE INSPECTION REPORT ===
+Property Address: 123 Maple Street, Anytown, USA
+Inspection Date: Oct 12, 2025
+Inspector Name: John Doe
+
+Overall condition: Fair. 
+
+Roof:
+Observed minor missing shingles on the north side, which appears to be a cosmetic issue. No visible water pooling.
+
+Kitchen:
+Minor wear on the countertops. The sink plumbing underneath seems dry, but there is some staining on the cabinet floor below suggesting a past issue. 
+
+Basement:
+No active water leaks visible. Small foundation crack near the south wall, about 1/8 inch wide.
+
+HVAC:
+The furnace appears to be operating normally without unusual noise. Filter is dirty.

@@ -1,0 +1,5 @@
+groq
+PyMuPDF
+python-dotenv
+streamlit
+python-docx

@@ -1,0 +1,14 @@
+=== THERMAL IMAGING REPORT ===
+Property: 123 Maple Street
+
+Roof:
+No thermal anomalies detected. Temperatures are consistent overall. (Image: RF-01)
+
+Kitchen:
+Noticed a cold spot (blue signature) near the dishwasher connection under the sink. Temperature reading: ~58°F, indicating possible active moisture behind the cabinet wall. (Image: KT-04)
+
+Basement:
+South wall crack shows a slight thermal bridge, but no signs of moisture intrusion. Temperature reading: 65°F. (Image: BS-02)
+
+Electrical Panel:
+One breaker (Circuit 4) is showing significant heat buildup. Temperature reading: 128°F. Red hot signature detected, requires immediate inspection by a licensed electrician. (Image: EL-01)
